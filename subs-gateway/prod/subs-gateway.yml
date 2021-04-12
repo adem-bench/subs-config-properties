@@ -1,0 +1,6 @@
+zuul:
+  routes:
+    subs-userservice: /api/user/**
+    subs-auth-server : /auth/**
+    
+    
